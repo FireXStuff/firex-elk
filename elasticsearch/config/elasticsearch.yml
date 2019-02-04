@@ -20,3 +20,8 @@ discovery.type: single-node
 #
 xpack.license.self_generated.type: trial
 xpack.security.enabled: true
+
+xpack.notification.slack:
+  account:
+   monitoring:
+     url: https://hooks.slack.com/services/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
